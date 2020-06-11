@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "277662280381",
+    "firebase_url": "https://online-tictactoe-dd216.firebaseio.com",
+    "project_id": "online-tictactoe-dd216",
+    "storage_bucket": "online-tictactoe-dd216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277662280381:android:458b4d607ea0492ae725d4",
+        "android_client_info": {
+          "package_name": "com.airubiya.onlinetictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277662280381-tkmmlu88b50a1d61spd84t8dajaq0vig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.airubiya.onlinetictactoe",
+            "certificate_hash": "37ed04f43914becb874548b45f1d106390c6a570"
+          }
+        },
+        {
+          "client_id": "277662280381-on0717gdpltqcqfpbldd9h5ruqo66oju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2iIM9ifrPP-2NA_g7Nsb4417diA2_rik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277662280381-on0717gdpltqcqfpbldd9h5ruqo66oju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
